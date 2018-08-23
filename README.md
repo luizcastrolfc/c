@@ -1,1 +1,1 @@
-# The c Programing Language
+# The C Programing Language
